@@ -2,8 +2,40 @@
 
 
 ## Datasets:
+### A:
 
-### C:
+source: https://data.mendeley.com/datasets/nsc7hnsg4s/2
+
+### B:
+source: https://data.matr.io/1/projects/5c48dd2bc625d700019f3204
+
+Test: a24
+c5
+c15
+b30
+b12
+a38
+b34
+c17
+b40
+c7
+b2
+c13
+b29
+a16
+b14
+c40
+c9
+a41
+c14
+a5
+c19
+c18
+
+### C: 
+
+source: https://www.batteryarchive.org/
+
 bat_prefix= [
 "SNL_18650_NMC_25C_0-100_0.5-3C_a", 
 "SNL_18650_NMC_25C_0-100_0.5-1C_a", 
