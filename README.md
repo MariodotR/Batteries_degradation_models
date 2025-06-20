@@ -8,7 +8,7 @@ Colab runs on free GPUs — ideal for quick tests or prototyping!
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cLtMFKHxoOIuThxJUe3yg8qfUuLt6xFW?usp=sharing)
 
-### 🧪 What You Can Do in the Notebook
+What You Can Do in the Notebook
 - Load the pretrained model with a single click
 - Run predictions on sample data or your own input
 
