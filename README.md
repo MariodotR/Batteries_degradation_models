@@ -1,5 +1,19 @@
 # Batteries_degradation_models
 
+## 🚀 Try the Model in Google Colab
+
+Ready to see the model in action?  
+We've prepared an interactive Google Colab notebook so you can test the model directly in your browser — no setup required!
+Colab runs on free GPUs — ideal for quick tests or prototyping!
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cLtMFKHxoOIuThxJUe3yg8qfUuLt6xFW?usp=sharing)
+
+### 🧪 What You Can Do in the Notebook
+- Load the pretrained model with a single click
+- Run predictions on sample data or your own input
+
+ 
+
 
 ## Datasets:
 ### A:
